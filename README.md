@@ -38,3 +38,7 @@ If you want this template to become Word's main default template, place it in th
 ## File in this project
 
 - `Normal.dotm`
+
+## Preview
+
+![Word template preview](Images/img1.jpg)
